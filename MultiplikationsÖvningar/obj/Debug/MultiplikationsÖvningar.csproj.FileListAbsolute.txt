@@ -1,0 +1,6 @@
+c:\users\su14rickard\documents\visual studio 2013\Projects\MultiplikationsÖvningar\MultiplikationsÖvningar\bin\Debug\MultiplikationsÖvningar.exe.config
+c:\users\su14rickard\documents\visual studio 2013\Projects\MultiplikationsÖvningar\MultiplikationsÖvningar\bin\Debug\MultiplikationsÖvningar.exe
+c:\users\su14rickard\documents\visual studio 2013\Projects\MultiplikationsÖvningar\MultiplikationsÖvningar\bin\Debug\MultiplikationsÖvningar.pdb
+c:\users\su14rickard\documents\visual studio 2013\Projects\MultiplikationsÖvningar\MultiplikationsÖvningar\obj\Debug\MultiplikationsÖvningar.csprojResolveAssemblyReference.cache
+c:\users\su14rickard\documents\visual studio 2013\Projects\MultiplikationsÖvningar\MultiplikationsÖvningar\obj\Debug\MultiplikationsÖvningar.exe
+c:\users\su14rickard\documents\visual studio 2013\Projects\MultiplikationsÖvningar\MultiplikationsÖvningar\obj\Debug\MultiplikationsÖvningar.pdb
