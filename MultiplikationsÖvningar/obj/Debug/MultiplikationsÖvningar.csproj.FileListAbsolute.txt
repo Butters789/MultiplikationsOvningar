@@ -4,3 +4,9 @@ c:\users\su14rickard\documents\visual studio 2013\Projects\MultiplikationsÖvnin
 c:\users\su14rickard\documents\visual studio 2013\Projects\MultiplikationsÖvningar\MultiplikationsÖvningar\obj\Debug\MultiplikationsÖvningar.csprojResolveAssemblyReference.cache
 c:\users\su14rickard\documents\visual studio 2013\Projects\MultiplikationsÖvningar\MultiplikationsÖvningar\obj\Debug\MultiplikationsÖvningar.exe
 c:\users\su14rickard\documents\visual studio 2013\Projects\MultiplikationsÖvningar\MultiplikationsÖvningar\obj\Debug\MultiplikationsÖvningar.pdb
+C:\Users\rickard\Documents\Visual Studio 2013\Projects\Skol Saker\MultiplikationsOvningar\MultiplikationsÖvningar\bin\Debug\MultiplikationsÖvningar.exe.config
+C:\Users\rickard\Documents\Visual Studio 2013\Projects\Skol Saker\MultiplikationsOvningar\MultiplikationsÖvningar\obj\Debug\MultiplikationsÖvningar.exe
+C:\Users\rickard\Documents\Visual Studio 2013\Projects\Skol Saker\MultiplikationsOvningar\MultiplikationsÖvningar\obj\Debug\MultiplikationsÖvningar.pdb
+C:\Users\rickard\Documents\Visual Studio 2013\Projects\Skol Saker\MultiplikationsOvningar\MultiplikationsÖvningar\bin\Debug\MultiplikationsÖvningar.exe
+C:\Users\rickard\Documents\Visual Studio 2013\Projects\Skol Saker\MultiplikationsOvningar\MultiplikationsÖvningar\bin\Debug\MultiplikationsÖvningar.pdb
+C:\Users\rickard\Documents\Visual Studio 2013\Projects\Skol Saker\MultiplikationsOvningar\MultiplikationsÖvningar\obj\Debug\MultiplikationsÖvningar.csprojResolveAssemblyReference.cache
